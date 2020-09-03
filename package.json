@@ -1,0 +1,24 @@
+{
+  "name": "realworldnodejs",
+  "version": "1.0.0",
+  "description": "A real world Nodejs Project",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluespex/RealwordNodejs.git"
+  },
+  "author": "bluespex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluespex/RealwordNodejs/issues"
+  },
+  "homepage": "https://github.com/bluespex/RealwordNodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.3.5"
+  }
+}
